@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/react-crud/static/media/logo.e30f4db5.png"
   },
   {
-    "revision": "fe307fc7b9c75e9cccf9",
+    "revision": "3bd99904dbfbde375c3a",
     "url": "/react-crud/static/css/main.ac7e8112.chunk.css"
   },
   {
@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "/react-crud/static/media/preload.cad0d684.gif"
   },
   {
-    "revision": "fe307fc7b9c75e9cccf9",
-    "url": "/react-crud/static/js/main.fe307fc7.chunk.js"
-  },
-  {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/react-crud/static/media/fontawesome-webfont.674f50d2.eot"
+    "revision": "3bd99904dbfbde375c3a",
+    "url": "/react-crud/static/js/main.3bd99904.chunk.js"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/react-crud/static/media/fontawesome-webfont.af7ae505.woff2"
+  },
+  {
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/react-crud/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/react-crud/static/css/1.122065ab.chunk.css"
   },
   {
-    "revision": "4170487eb89661987508870465d571d8",
+    "revision": "cb9ae7e4db5b71040b09be2ce04b4e0f",
     "url": "/react-crud/index.html"
   }
 ];
