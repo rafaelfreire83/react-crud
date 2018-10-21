@@ -1,0 +1,14 @@
+header.header{
+    padding: 0 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    background-color: #fff;
+    box-shadow: var(--shadow);
+}
+header.header h1{
+    font-size: 1.6em;
+}
+
+header.header p{
+    font-size: 1em;
+}
