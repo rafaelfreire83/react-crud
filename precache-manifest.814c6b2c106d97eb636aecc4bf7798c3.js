@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/react-crud/static/media/logo.e30f4db5.png"
   },
   {
-    "revision": "3bd99904dbfbde375c3a",
+    "revision": "aa3f913d5c5be17d59db",
     "url": "/react-crud/static/css/main.ac7e8112.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/react-crud/static/media/preload.cad0d684.gif"
   },
   {
-    "revision": "3bd99904dbfbde375c3a",
-    "url": "/react-crud/static/js/main.3bd99904.chunk.js"
+    "revision": "aa3f913d5c5be17d59db",
+    "url": "/react-crud/static/js/main.aa3f913d.chunk.js"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/react-crud/static/css/1.122065ab.chunk.css"
   },
   {
-    "revision": "cb9ae7e4db5b71040b09be2ce04b4e0f",
+    "revision": "3249f469a4c76d4e0f3e08c1fd79177f",
     "url": "/react-crud/index.html"
   }
 ];
