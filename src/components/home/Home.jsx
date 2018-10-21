@@ -6,5 +6,5 @@ export default props =>
     <Main icon="home" title="Início" subtitle="Primeiro APP React"> 
         <div className="display-4">Bem vindo!</div>    
         <hr/>
-        <p className="mb-0">Sistema para exeplicar a constução de um cadastro desenvolvido em React!</p>
+        <p className="mb-0">Sistema de cadastro desenvolvido em React!</p>
     </Main>

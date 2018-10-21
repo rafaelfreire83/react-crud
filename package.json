@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://rafaelfreire83.github.io/react-crud",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "axios": "0.18.0",
     "bootstrap": ">=4.1.1",
     "font-awesome": "4.7.0",
@@ -30,8 +31,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "devDependencies": {
-    "gh-pages": "^2.0.1"
-  }
+  ]
 }
