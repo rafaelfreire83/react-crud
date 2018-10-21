@@ -7,7 +7,7 @@ Created with *create-react-app*. See the [full create-react-app guide](https://g
 Page
 ---
 
-[rafaelfreire83.github.io/react-crud/](https://rafaelfreire83.github.io/react-crud/).
+[rafaelfreire83.github.io/react-crud](https://rafaelfreire83.github.io/react-crud/)
 
 
 Install
